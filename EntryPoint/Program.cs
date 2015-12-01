@@ -41,7 +41,7 @@ namespace EntryPoint
     {
 
             IEnumerable<Vector2> yolofucker;
-            Console.WriteLine("Heyy");
+            Console.WriteLine("Heyyy");
             
             //Vector3.
             return specialBuildings.OrderBy(v => Vector2.Distance(v, house));
